@@ -69,7 +69,7 @@ Both of these challenges encompasses a real-world situation where your newfound 
   * The percentage of votes each candidate won
 
   * The total number of votes each candidate won
-
+  
   * The winner of the election based on popular vote.
 
 * As an example, your analysis should look similar to the one below:
